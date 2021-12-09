@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Slobodan
-- 👀 I’m interested in e-learning software
-- 🌱 I’m currently learning MERN stack and Bootstrap 4
-- 💞️ I’m looking to collaborate with a designer on my personal website
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Unity
+- 💞️ I’m looking to collaborate on an open-source project concerning online voting
 - 📫 How to reach me danastroman@gmail.com
 
 <!---

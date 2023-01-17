@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Slobodan
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on an open-source project concerning online voting
+- 👀 I’m interested in software architecture, devops and lean management
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on an open-source project concerning green energy
 - 📫 How to reach me danastroman@gmail.com
 
 <!---

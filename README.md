@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on an open-source project concerning green energy or voting.
 - 📫 How to reach me slobodan.s.dan@gmail.com
 
-- “You believe in the God who plays dice, 
-and I in complete law and order in a world which objectively exists” 
+
+“You believe in the God who plays dice, and I in complete law and order in a world which objectively exists” 
+
 (Einstein to Born, 1971).
 
 <!---

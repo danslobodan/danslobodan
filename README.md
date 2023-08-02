@@ -7,7 +7,7 @@
 
 “You believe in the God who plays dice, and I in complete law and order in a world which objectively exists” 
 
-(Einstein to Born, 1971).
+(Letter from Einstein to Born).
 
 <!---
 danslobodan/danslobodan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

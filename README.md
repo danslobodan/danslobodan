@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Slobodan
 - 👀 I’m interested in software architecture, devops and lean management
-- 🌱 I’m currently learning React Native and Expo
+- 🌱 I’m currently learning Rust and Tauri
 - 💞️ I’m looking to collaborate on an open-source project concerning green energy or voting.
 - 📫 How to reach me slobodan.s.dan@gmail.com
 

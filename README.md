@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Slobodan
-- 👀 I’m interested in software architecture, devops and lean management
-- 🌱 I’m currently learning Rust and Tauri
-- 💞️ I’m looking to collaborate on an open-source project concerning green energy or voting.
+- 👀 I’m looking to collaborate on any project concerning environmentalism (green energy, renewables...), voting or philantrophy.
+- 🌱 I’m currently learning Rust and Software Architecture
+- 💞️ I’m interested in software architecture, devops and lean management
 - 📫 How to reach me slobodan.s.dan@gmail.com
 
 
